@@ -1,0 +1,16 @@
+#vstag{
+    color: red;
+}
+.test_image_and_result{
+    background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+.copy_right_footer{
+    background-color: gray;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+  }
